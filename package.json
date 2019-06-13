@@ -1,0 +1,25 @@
+{
+    "name": "flk-crypto",
+    "description": "Falak JS Encrypting and Decrypting data using crypto js.",
+    "version": "1.0.0",
+    "dependencies": {
+        "crypto-js": "3.1.9-1"
+    },
+    "mainFiles": {
+        "crypto-js": "crypto-js.js"
+    },
+    "keywords": [
+        "crypto",
+        "encryption",
+        "decryption",
+        "flk"
+    ],
+    "author": {
+        "email": "hassanzohdy@gmail.com",
+        "name": "Hasan Zohdy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/falakjs/flk-crypto"
+    }
+}
