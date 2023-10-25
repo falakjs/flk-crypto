@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "main": "dist/crypto.js",
     "dependencies": {
-        "crypto-js": "3.1.9-1"
+        "crypto-js": "4.2.0"
     },
     "mainFiles": {
         "crypto-js": "crypto-js.js"
